@@ -18,11 +18,11 @@ Todos los experimentos están implementados en **PyTorch** y han sido ejecutados
 entorno GPU T4 de Google Colab.
 
 ## Estructura
-- **`MNIST/`** — Clasificación de dígitos con CNN y CNN-KAN, y autoencoder convolucional
+- **`MNIST/`** : Clasificación de dígitos con CNN y CNN-KAN, y autoencoder convolucional
   (CAE) para reconstrucción.
-- **`Cards/`** — Clasificación del palo de cartas de baraja francesa con CNN y CNN-KAN
+- **`Cards/`** : Clasificación del palo de cartas de baraja francesa con CNN y CNN-KAN
   (*Cards Image Dataset*).
-- **`BRISC/`** — Experimentos sobre el dataset *BRISC 2025* de resonancia magnética
+- **`BRISC/`** : Experimentos sobre el dataset *BRISC 2025* de resonancia magnética
   cerebral: clasificación de tumores con redes preentrenadas (DenseNet121 y AlexNet),
   detección de anomalías mediante autoencoder y segmentación de tumores con U-Net.
 

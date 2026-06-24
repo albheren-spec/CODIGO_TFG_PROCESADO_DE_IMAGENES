@@ -3,7 +3,7 @@ Código fuente del Trabajo Fin de Grado ***Procesado de Imágenes mediante IA:
 Clasificación, Autoencoders y Segmentación en Imagen Médica***.
 
 Autor: Alberto Herencia Arce
-Grado en Ingeniería Matemática — Universidad Complutense de Madrid
+Grado en Ingeniería Matemática (Universidad Complutense de Madrid)
 Curso 2025/26
 
 ## Descripción
